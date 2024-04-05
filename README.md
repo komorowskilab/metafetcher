@@ -12,7 +12,7 @@ Currently the package supports resolving IDs for the following databases:
   - Lipidomics Gateway (LipidMaps)
  
   
- For any questions or issues please use the Issues in github or contact Rajmund Casombordi or Sara Younes.
+ For any questions or issues please use the Issues in github or contact Sara Younes.
  
  ## Please note that I updated the installation because it is dependent on one of the packages so this is how to install the package
  library(devtools)
